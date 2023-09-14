@@ -195,6 +195,7 @@ h3 .subtitle{
 #offcanvasTop{
   height: 80%;
   background: #2c0f32f7;
+	font-family: 'Poppins', sans-serif;
   color: #ffffff;
 }
 .offcanvas-body {
@@ -206,6 +207,7 @@ h3 .subtitle{
 .offcanvas-body li{
   display: block;
   padding: 6px;
+	font-family: 'Poppins', sans-serif;
   color: #ffffff;
 }
   .main {
